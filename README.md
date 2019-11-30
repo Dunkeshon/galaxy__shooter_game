@@ -1,5 +1,4 @@
 # galaxy__shooter_game
-project
 The logic of this game is pretty simple. 
 I have a background image that makes us feel that we are flying forward. In reality,
 we are not changing our position. You can control the position of your spaceship using axes. 
