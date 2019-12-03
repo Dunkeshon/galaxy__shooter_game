@@ -9,7 +9,6 @@ Enemies have 1 hit point . player have 3 hit points. Enemies spawns randomly in 
 I realised saving the progress in the binarry file, so you can have your highscore even after restarting of your game.
 I have main menu and pause menu.
 
-Everything is working pretty fine, except for the pause menu(restart button- don't press it,please).
 Actually i also had boss, that apered after killing n amount of enemies, 
 controllers for mobile devices and had those bugs fixed, but somehow 
 i lost this version due to i was not using git hub :'( .
