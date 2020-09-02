@@ -1,4 +1,6 @@
 # galaxy__shooter_game
+<h3>First Unity game</h3>
+
 In this project i used Unity and it's libraries
 The logic of this game is pretty simple. 
 I have a background image that makes us feel that we are flying forward. In reality,
